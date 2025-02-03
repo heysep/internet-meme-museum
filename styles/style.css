@@ -1,6 +1,5 @@
 @import "styles/2000s.css";
 
-/* 기본 스타일 초기화 */
 body, h1, p, a {
     margin: 0;
     padding: 0;
@@ -15,7 +14,7 @@ body {
 }
 
 header h1 {
-    font-size: 40px; /* 2.5rem → 40px */
+    font-size: 40px; 
     color: #ffcc00;
     margin-bottom: 10px;
 }
@@ -33,7 +32,7 @@ header h1 {
     color: #ffcc00;
     padding: 20px;
     border-radius: 10px;
-    font-size: 24px; /* 1.5rem → 24px */
+    font-size: 24px; 
     text-decoration: none;
     transition: 0.3s;
     font-family: 'VT323', sans-serif;
@@ -47,7 +46,7 @@ header h1 {
 /* 푸터 */
 footer {
     margin-top: 50px;
-    font-size: 13px; /* 12.8px 유지 */
+    font-size: 13px; 
 }
 
 .meme-container {
@@ -71,7 +70,7 @@ footer {
 
 .meme-card h2 {
     font-family: 'Pixelify Sans', sans-serif;
-    font-size: 24px; /* 1.5rem → 24px */
+    font-size: 24px; 
     margin-bottom: 10px;
 }
 
